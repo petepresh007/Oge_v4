@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Precious Peter - [Github](preshtech18@gmail.com)
+Precious Peter - [Github](preshtech18@gmail.com) 
 Nwobum Ogechukwu - [Github](https://github.com/Ogechukwu11)
 
 ## License
