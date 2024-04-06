@@ -157,6 +157,5 @@ No known bugs at this time.
 Precious Peter - [Github](preshtech18@gmail.com)
 Nwobum Ogechukwu - [Github](https://github.com/Ogechukwu11)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
